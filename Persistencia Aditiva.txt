@@ -1,0 +1,6 @@
+1- Inicio
+2- Recibir valor int 
+3- If valor < 9 = 0
+4- Sum valor cifras
+5- Show cantidad de persistencia aditiva
+6-Fin 

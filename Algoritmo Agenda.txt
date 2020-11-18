@@ -1,0 +1,5 @@
+1- Inicio
+2- Redactamos un correo con la invitacion de las personas
+3- Asiganamos fecha en nuestro calendario digital 
+4- Guardamos la informacion de nuestro calendario 
+5- Terminamos
